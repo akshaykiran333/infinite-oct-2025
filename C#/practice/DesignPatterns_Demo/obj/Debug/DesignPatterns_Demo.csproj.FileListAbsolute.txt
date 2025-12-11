@@ -1,0 +1,8 @@
+C:\infinite_oct2025\C#\practice\DesignPatterns_Demo\bin\Debug\DesignPatterns_Demo.exe.config
+C:\infinite_oct2025\C#\practice\DesignPatterns_Demo\bin\Debug\DesignPatterns_Demo.exe
+C:\infinite_oct2025\C#\practice\DesignPatterns_Demo\bin\Debug\DesignPatterns_Demo.pdb
+C:\infinite_oct2025\C#\practice\DesignPatterns_Demo\obj\Debug\DesignPatterns_Demo.csproj.AssemblyReference.cache
+C:\infinite_oct2025\C#\practice\DesignPatterns_Demo\obj\Debug\DesignPatterns_Demo.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\C#\practice\DesignPatterns_Demo\obj\Debug\DesignPatterns_Demo.exe
+C:\infinite_oct2025\C#\practice\DesignPatterns_Demo\obj\Debug\DesignPatterns_Demo.pdb
+C:\infinite_oct2025\C#\practice\DesignPatterns_Demo\obj\Debug\DesignPatterns_Demo.exe.config

@@ -1,0 +1,13 @@
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe.config
+C:\infinite_oct2025\c#\practice\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\infinite_oct2025\c#\practice\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe.config
+C:\infinite_oct2025\c#\practice\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\c#\practice\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\infinite_oct2025\c#\practice\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

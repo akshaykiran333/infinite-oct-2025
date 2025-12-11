@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|c:\\infinite_oct2025\\c#\\practice\\designpatterns_demo\\gamecharactermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|solutionrelative:gamecharactermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|c:\\infinite_oct2025\\c#\\practice\\designpatterns_demo\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|solutionrelative:gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|c:\\infinite_oct2025\\c#\\practice\\designpatterns_demo\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|c:\\infinite_oct2025\\c#\\practice\\designpatterns_demo\\loggermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|solutionrelative:loggermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|c:\\infinite_oct2025\\c#\\practice\\designpatterns_demo\\simplefactory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|solutionrelative:simplefactory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|c:\\infinite_oct2025\\c#\\practice\\designpatterns_demo\\simplefactmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|solutionrelative:simplefactmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|c:\\infinite_oct2025\\c#\\practice\\designpatterns_demo\\facadepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED6E201-4F8B-4EF4-823E-219F61033F36}|DesignPatterns_Demo.csproj|solutionrelative:facadepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameCharacterMain.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\GameCharacterMain.cs",
+              "RelativeDocumentMoniker": "GameCharacterMain.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\GameCharacterMain.cs*",
+              "RelativeToolTip": "GameCharacterMain.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:31:57.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "GameCharacter.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\GameCharacter.cs*",
+              "RelativeToolTip": "GameCharacter.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:30:46.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggerMain.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\LoggerMain.cs",
+              "RelativeDocumentMoniker": "LoggerMain.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\LoggerMain.cs",
+              "RelativeToolTip": "LoggerMain.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:47:25.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:40:17.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleFactory1.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\SimpleFactory1.cs",
+              "RelativeDocumentMoniker": "SimpleFactory1.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\SimpleFactory1.cs",
+              "RelativeToolTip": "SimpleFactory1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:23:45.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacadePattern.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\FacadePattern.cs",
+              "RelativeDocumentMoniker": "FacadePattern.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\FacadePattern.cs",
+              "RelativeToolTip": "FacadePattern.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:51:23.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleFactMain.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\SimpleFactMain.cs",
+              "RelativeDocumentMoniker": "SimpleFactMain.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\DesignPatterns_Demo\\SimpleFactMain.cs",
+              "RelativeToolTip": "SimpleFactMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:50:27.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

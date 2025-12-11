@@ -1,0 +1,8 @@
+C:\infinite_oct2025\c#\practice\Function\Function\bin\Debug\Function.exe.config
+C:\infinite_oct2025\c#\practice\Function\Function\bin\Debug\Function.exe
+C:\infinite_oct2025\c#\practice\Function\Function\bin\Debug\Function.pdb
+C:\infinite_oct2025\c#\practice\Function\Function\obj\Debug\Function.csproj.AssemblyReference.cache
+C:\infinite_oct2025\c#\practice\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\c#\practice\Function\Function\obj\Debug\Function.exe
+C:\infinite_oct2025\c#\practice\Function\Function\obj\Debug\Function.pdb
+C:\infinite_oct2025\c#\practice\Function\Function\obj\Debug\Function.exe.config

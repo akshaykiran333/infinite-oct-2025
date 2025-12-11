@@ -1,0 +1,7 @@
+C:\infinite_oct2025\c#\practice\Day7_StaticClassDemo\bin\Debug\Day7_StaticClassDemo.exe.config
+C:\infinite_oct2025\c#\practice\Day7_StaticClassDemo\bin\Debug\Day7_StaticClassDemo.exe
+C:\infinite_oct2025\c#\practice\Day7_StaticClassDemo\bin\Debug\Day7_StaticClassDemo.pdb
+C:\infinite_oct2025\c#\practice\Day7_StaticClassDemo\obj\Debug\Day7_StaticClassDemo.csproj.AssemblyReference.cache
+C:\infinite_oct2025\c#\practice\Day7_StaticClassDemo\obj\Debug\Day7_StaticClassDemo.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\c#\practice\Day7_StaticClassDemo\obj\Debug\Day7_StaticClassDemo.exe
+C:\infinite_oct2025\c#\practice\Day7_StaticClassDemo\obj\Debug\Day7_StaticClassDemo.pdb

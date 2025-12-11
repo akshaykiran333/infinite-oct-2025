@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\idatabasedip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:idatabasedip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|c:\\infinite_oct2025\\c#\\practice\\solids_demo\\sqldatabasedip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:sqldatabasedip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\imanagerisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:imanagerisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\iworkerisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:iworkerisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\imanagelsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:imanagelsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\ieatisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:ieatisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\iworklsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:iworklsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\employeelsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:employeelsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:permanentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\ibonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:ibonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\ocpdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:ocpdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043D59B-AFCF-4FEC-A8E3-62AA8495CEEF}|Solids_Demo.csproj|solutionrelative:srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlDatabaseDip.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\SqlDatabaseDip.cs",
+              "RelativeDocumentMoniker": "SqlDatabaseDip.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\SqlDatabaseDip.cs",
+              "RelativeToolTip": "SqlDatabaseDip.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:35:15.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "OrderProcessor.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\OrderProcessor.cs",
+              "RelativeToolTip": "OrderProcessor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:42:35.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDatabaseDip.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IDatabaseDip.cs",
+              "RelativeDocumentMoniker": "IDatabaseDip.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IDatabaseDip.cs",
+              "RelativeToolTip": "IDatabaseDip.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:33:36.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWorkerIsp.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IWorkerIsp.cs",
+              "RelativeDocumentMoniker": "IWorkerIsp.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IWorkerIsp.cs",
+              "RelativeToolTip": "IWorkerIsp.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:25:59.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IManageLsp.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IManageLsp.cs",
+              "RelativeDocumentMoniker": "IManageLsp.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IManageLsp.cs",
+              "RelativeToolTip": "IManageLsp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:16:16.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEatIsp.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IEatIsp.cs",
+              "RelativeDocumentMoniker": "IEatIsp.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IEatIsp.cs",
+              "RelativeToolTip": "IEatIsp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:14:10.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwEsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:34:24.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IManagerIsp.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IManagerIsp.cs",
+              "RelativeDocumentMoniker": "IManagerIsp.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IManagerIsp.cs",
+              "RelativeToolTip": "IManagerIsp.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:27:04.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IWorkLsp.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IWorkLsp.cs",
+              "RelativeDocumentMoniker": "IWorkLsp.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IWorkLsp.cs",
+              "RelativeToolTip": "IWorkLsp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:09:57.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContractEmployee.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\ContractEmployee.cs",
+              "RelativeDocumentMoniker": "ContractEmployee.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\ContractEmployee.cs",
+              "RelativeToolTip": "ContractEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:53:30.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PermanentEmployee.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\PermanentEmployee.cs",
+              "RelativeDocumentMoniker": "PermanentEmployee.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\PermanentEmployee.cs",
+              "RelativeToolTip": "PermanentEmployee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:50:25.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBonus.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IBonus.cs",
+              "RelativeDocumentMoniker": "IBonus.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\IBonus.cs",
+              "RelativeToolTip": "IBonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:48:53.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeLsv.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\EmployeeLsv.cs",
+              "RelativeDocumentMoniker": "EmployeeLsv.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\EmployeeLsv.cs",
+              "RelativeToolTip": "EmployeeLsv.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:46:12.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OcpDemo.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\OcpDemo.cs",
+              "RelativeDocumentMoniker": "OcpDemo.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\OcpDemo.cs",
+              "RelativeToolTip": "OcpDemo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:26:04.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SRP.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\SRP.cs",
+              "RelativeDocumentMoniker": "SRP.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\Solids_Demo\\SRP.cs",
+              "RelativeToolTip": "SRP.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wCcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:02:02.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

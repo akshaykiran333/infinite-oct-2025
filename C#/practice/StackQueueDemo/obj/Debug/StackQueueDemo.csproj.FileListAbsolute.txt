@@ -1,0 +1,8 @@
+C:\infinite_oct2025\C#\practice\StackQueueDemo\bin\Debug\StackQueueDemo.exe.config
+C:\infinite_oct2025\C#\practice\StackQueueDemo\bin\Debug\StackQueueDemo.exe
+C:\infinite_oct2025\C#\practice\StackQueueDemo\bin\Debug\StackQueueDemo.pdb
+C:\infinite_oct2025\C#\practice\StackQueueDemo\obj\Debug\StackQueueDemo.csproj.AssemblyReference.cache
+C:\infinite_oct2025\C#\practice\StackQueueDemo\obj\Debug\StackQueueDemo.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\C#\practice\StackQueueDemo\obj\Debug\StackQueueDemo.exe
+C:\infinite_oct2025\C#\practice\StackQueueDemo\obj\Debug\StackQueueDemo.pdb
+C:\infinite_oct2025\C#\practice\StackQueueDemo\obj\Debug\StackQueueDemo.exe.config
