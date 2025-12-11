@@ -1,8 +1,0 @@
-C:\infinite_oct2025\c#\practice\FunctionOverridingDemo\bin\Debug\FunctionOverridingDemo.exe.config
-C:\infinite_oct2025\c#\practice\FunctionOverridingDemo\bin\Debug\FunctionOverridingDemo.exe
-C:\infinite_oct2025\c#\practice\FunctionOverridingDemo\bin\Debug\FunctionOverridingDemo.pdb
-C:\infinite_oct2025\c#\practice\FunctionOverridingDemo\obj\Debug\FunctionOverridingDemo.csproj.AssemblyReference.cache
-C:\infinite_oct2025\c#\practice\FunctionOverridingDemo\obj\Debug\FunctionOverridingDemo.csproj.CoreCompileInputs.cache
-C:\infinite_oct2025\c#\practice\FunctionOverridingDemo\obj\Debug\FunctionOverridingDemo.exe
-C:\infinite_oct2025\c#\practice\FunctionOverridingDemo\obj\Debug\FunctionOverridingDemo.pdb
-C:\infinite_oct2025\c#\practice\FunctionOverridingDemo\obj\Debug\FunctionOverridingDemo.exe.config

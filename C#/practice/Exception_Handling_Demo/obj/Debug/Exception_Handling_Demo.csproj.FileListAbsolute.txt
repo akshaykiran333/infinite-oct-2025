@@ -1,8 +1,0 @@
-C:\infinite_oct2025\C#\practice\Exception_Handling_Demo\bin\Debug\Exception_Handling_Demo.exe.config
-C:\infinite_oct2025\C#\practice\Exception_Handling_Demo\bin\Debug\Exception_Handling_Demo.exe
-C:\infinite_oct2025\C#\practice\Exception_Handling_Demo\bin\Debug\Exception_Handling_Demo.pdb
-C:\infinite_oct2025\C#\practice\Exception_Handling_Demo\obj\Debug\Exception_Handling_Demo.csproj.AssemblyReference.cache
-C:\infinite_oct2025\C#\practice\Exception_Handling_Demo\obj\Debug\Exception_Handling_Demo.csproj.CoreCompileInputs.cache
-C:\infinite_oct2025\C#\practice\Exception_Handling_Demo\obj\Debug\Exception_Handling_Demo.exe
-C:\infinite_oct2025\C#\practice\Exception_Handling_Demo\obj\Debug\Exception_Handling_Demo.pdb
-C:\infinite_oct2025\C#\practice\Exception_Handling_Demo\obj\Debug\Exception_Handling_Demo.exe.config

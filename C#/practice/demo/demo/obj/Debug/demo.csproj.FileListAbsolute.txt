@@ -1,8 +1,0 @@
-C:\c#\practice\demo\demo\bin\Debug\demo.exe.config
-C:\c#\practice\demo\demo\bin\Debug\demo.exe
-C:\c#\practice\demo\demo\bin\Debug\demo.pdb
-C:\c#\practice\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
-C:\c#\practice\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
-C:\c#\practice\demo\demo\obj\Debug\demo.exe
-C:\c#\practice\demo\demo\obj\Debug\demo.pdb
-C:\c#\practice\demo\demo\obj\Debug\demo.exe.config

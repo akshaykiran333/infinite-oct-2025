@@ -1,9 +1,0 @@
-C:\infinite_oct2025\C#\practice\RemotingLib2\bin\Debug\RemotingLib2.dll
-C:\infinite_oct2025\C#\practice\RemotingLib2\bin\Debug\RemotingLib2.pdb
-C:\infinite_oct2025\C#\practice\RemotingLib2\bin\Debug\RemotingTrn2.dll
-C:\infinite_oct2025\C#\practice\RemotingLib2\bin\Debug\RemotingTrn2.pdb
-C:\infinite_oct2025\C#\practice\RemotingLib2\obj\Debug\RemotingLib2.csproj.AssemblyReference.cache
-C:\infinite_oct2025\C#\practice\RemotingLib2\obj\Debug\RemotingLib2.csproj.CoreCompileInputs.cache
-C:\infinite_oct2025\C#\practice\RemotingLib2\obj\Debug\Remoting.4E21078A.Up2Date
-C:\infinite_oct2025\C#\practice\RemotingLib2\obj\Debug\RemotingLib2.dll
-C:\infinite_oct2025\C#\practice\RemotingLib2\obj\Debug\RemotingLib2.pdb

@@ -1,8 +1,0 @@
-C:\infinite_oct2025\C#\practice\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe.config
-C:\infinite_oct2025\C#\practice\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe
-C:\infinite_oct2025\C#\practice\FileHandlingDemo\bin\Debug\FileHandlingDemo.pdb
-C:\infinite_oct2025\C#\practice\FileHandlingDemo\obj\Debug\FileHandlingDemo.csproj.AssemblyReference.cache
-C:\infinite_oct2025\C#\practice\FileHandlingDemo\obj\Debug\FileHandlingDemo.csproj.CoreCompileInputs.cache
-C:\infinite_oct2025\C#\practice\FileHandlingDemo\obj\Debug\FileHandlingDemo.exe
-C:\infinite_oct2025\C#\practice\FileHandlingDemo\obj\Debug\FileHandlingDemo.pdb
-C:\infinite_oct2025\C#\practice\FileHandlingDemo\obj\Debug\FileHandlingDemo.exe.config

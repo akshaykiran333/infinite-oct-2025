@@ -1,8 +1,0 @@
-C:\infinite_oct2025\c#\practice\Day_5\bin\Debug\Day_5.exe.config
-C:\infinite_oct2025\c#\practice\Day_5\bin\Debug\Day_5.exe
-C:\infinite_oct2025\c#\practice\Day_5\bin\Debug\Day_5.pdb
-C:\infinite_oct2025\c#\practice\Day_5\obj\Debug\Day_5.csproj.AssemblyReference.cache
-C:\infinite_oct2025\c#\practice\Day_5\obj\Debug\Day_5.csproj.CoreCompileInputs.cache
-C:\infinite_oct2025\c#\practice\Day_5\obj\Debug\Day_5.exe
-C:\infinite_oct2025\c#\practice\Day_5\obj\Debug\Day_5.pdb
-C:\infinite_oct2025\c#\practice\Day_5\obj\Debug\Day_5.exe.config

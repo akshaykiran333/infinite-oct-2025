@@ -1,8 +1,0 @@
-C:\infinite_oct2025\c#\practice\Constructor\bin\Debug\Constructor.exe.config
-C:\infinite_oct2025\c#\practice\Constructor\bin\Debug\Constructor.exe
-C:\infinite_oct2025\c#\practice\Constructor\bin\Debug\Constructor.pdb
-C:\infinite_oct2025\c#\practice\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
-C:\infinite_oct2025\c#\practice\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
-C:\infinite_oct2025\c#\practice\Constructor\obj\Debug\Constructor.exe
-C:\infinite_oct2025\c#\practice\Constructor\obj\Debug\Constructor.pdb
-C:\infinite_oct2025\c#\practice\Constructor\obj\Debug\Constructor.exe.config

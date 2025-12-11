@@ -1,8 +1,0 @@
-C:\infinite_oct2025\c#\practice\Polymorphism_Demo\bin\Debug\Polymorphism_Demo.exe.config
-C:\infinite_oct2025\c#\practice\Polymorphism_Demo\bin\Debug\Polymorphism_Demo.exe
-C:\infinite_oct2025\c#\practice\Polymorphism_Demo\bin\Debug\Polymorphism_Demo.pdb
-C:\infinite_oct2025\c#\practice\Polymorphism_Demo\obj\Debug\Polymorphism_Demo.csproj.AssemblyReference.cache
-C:\infinite_oct2025\c#\practice\Polymorphism_Demo\obj\Debug\Polymorphism_Demo.csproj.CoreCompileInputs.cache
-C:\infinite_oct2025\c#\practice\Polymorphism_Demo\obj\Debug\Polymorphism_Demo.exe
-C:\infinite_oct2025\c#\practice\Polymorphism_Demo\obj\Debug\Polymorphism_Demo.pdb
-C:\infinite_oct2025\c#\practice\Polymorphism_Demo\obj\Debug\Polymorphism_Demo.exe.config

@@ -1,8 +1,0 @@
-C:\infinite_oct2025\C#\practice\Indexer_overloading_Demo\bin\Debug\Indexer_overloading_Demo.exe
-C:\infinite_oct2025\C#\practice\Indexer_overloading_Demo\bin\Debug\Indexer_overloading_Demo.exe.config
-C:\infinite_oct2025\C#\practice\Indexer_overloading_Demo\obj\Debug\Indexer_overloading_Demo.csproj.AssemblyReference.cache
-C:\infinite_oct2025\C#\practice\Indexer_overloading_Demo\obj\Debug\Indexer_overloading_Demo.csproj.CoreCompileInputs.cache
-C:\infinite_oct2025\C#\practice\Indexer_overloading_Demo\obj\Debug\Indexer_overloading_Demo.exe
-C:\infinite_oct2025\C#\practice\Indexer_overloading_Demo\obj\Debug\Indexer_overloading_Demo.pdb
-C:\infinite_oct2025\C#\practice\Indexer_overloading_Demo\bin\Debug\Indexer_overloading_Demo.pdb
-C:\infinite_oct2025\C#\practice\Indexer_overloading_Demo\obj\Debug\Indexer_overloading_Demo.exe.config
