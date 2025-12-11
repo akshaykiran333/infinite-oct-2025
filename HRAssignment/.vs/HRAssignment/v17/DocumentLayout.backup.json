@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D16190FD-21EA-420D-AD89-0FC834D7DBB9}|HRAssignment.csproj|c:\\infinite_oct2025\\c#\\assignments\\hrassignment\\payrollprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16190FD-21EA-420D-AD89-0FC834D7DBB9}|HRAssignment.csproj|solutionrelative:payrollprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16190FD-21EA-420D-AD89-0FC834D7DBB9}|HRAssignment.csproj|C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\mockemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16190FD-21EA-420D-AD89-0FC834D7DBB9}|HRAssignment.csproj|solutionrelative:mockemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16190FD-21EA-420D-AD89-0FC834D7DBB9}|HRAssignment.csproj|C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\iemployeedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16190FD-21EA-420D-AD89-0FC834D7DBB9}|HRAssignment.csproj|solutionrelative:iemployeedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16190FD-21EA-420D-AD89-0FC834D7DBB9}|HRAssignment.csproj|C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\employeerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16190FD-21EA-420D-AD89-0FC834D7DBB9}|HRAssignment.csproj|solutionrelative:employeerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16190FD-21EA-420D-AD89-0FC834D7DBB9}|HRAssignment.csproj|C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16190FD-21EA-420D-AD89-0FC834D7DBB9}|HRAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayrollProcessor.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\PayrollProcessor.cs",
+              "RelativeDocumentMoniker": "PayrollProcessor.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\PayrollProcessor.cs",
+              "RelativeToolTip": "PayrollProcessor.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:56:50.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MockEmployee.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\MockEmployee.cs",
+              "RelativeDocumentMoniker": "MockEmployee.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\MockEmployee.cs",
+              "RelativeToolTip": "MockEmployee.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:55:39.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeDataReader.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\IEmployeeDataReader.cs",
+              "RelativeDocumentMoniker": "IEmployeeDataReader.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\IEmployeeDataReader.cs",
+              "RelativeToolTip": "IEmployeeDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:54:13.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRecord.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\EmployeeRecord.cs",
+              "RelativeDocumentMoniker": "EmployeeRecord.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\EmployeeRecord.cs",
+              "RelativeToolTip": "EmployeeRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:53:06.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\Assignments\\HRAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:52:23.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

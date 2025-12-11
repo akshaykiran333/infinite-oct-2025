@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct2025\\C#\\Assignments\\Assignment_Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B12C-A89C-46C3-BC51-4FEA91F8D5E4}|Assignment_Collections.csproj|C:\\infinite_oct2025\\C#\\Assignments\\Assignment_Collections\\employeemanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B12C-A89C-46C3-BC51-4FEA91F8D5E4}|Assignment_Collections.csproj|solutionrelative:employeemanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B12C-A89C-46C3-BC51-4FEA91F8D5E4}|Assignment_Collections.csproj|c:\\infinite_oct2025\\c#\\assignments\\assignment_collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B12C-A89C-46C3-BC51-4FEA91F8D5E4}|Assignment_Collections.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeManagementSystem.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\Assignments\\Assignment_Collections\\EmployeeManagementSystem.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\Assignments\\Assignment_Collections\\EmployeeManagementSystem.cs",
+              "RelativeToolTip": "EmployeeManagementSystem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T04:27:31.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\Assignments\\Assignment_Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\Assignments\\Assignment_Collections\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T04:24:47.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

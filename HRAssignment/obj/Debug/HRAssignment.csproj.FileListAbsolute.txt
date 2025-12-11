@@ -1,0 +1,8 @@
+C:\infinite_oct2025\C#\Assignments\HRAssignment\bin\Debug\HRAssignment.exe.config
+C:\infinite_oct2025\C#\Assignments\HRAssignment\bin\Debug\HRAssignment.exe
+C:\infinite_oct2025\C#\Assignments\HRAssignment\bin\Debug\HRAssignment.pdb
+C:\infinite_oct2025\C#\Assignments\HRAssignment\obj\Debug\HRAssignment.csproj.AssemblyReference.cache
+C:\infinite_oct2025\C#\Assignments\HRAssignment\obj\Debug\HRAssignment.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\C#\Assignments\HRAssignment\obj\Debug\HRAssignment.exe
+C:\infinite_oct2025\C#\Assignments\HRAssignment\obj\Debug\HRAssignment.pdb
+C:\infinite_oct2025\C#\Assignments\HRAssignment\obj\Debug\HRAssignment.exe.config

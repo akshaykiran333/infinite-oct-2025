@@ -1,0 +1,16 @@
+C:\infinite_oct2025\c#\practice\Utility_Billing_System\bin\Debug\Utility_Billing_System.exe.config
+C:\infinite_oct2025\c#\practice\Utility_Billing_System\bin\Debug\Utility_Billing_System.exe
+C:\infinite_oct2025\c#\practice\Utility_Billing_System\bin\Debug\Utility_Billing_System.pdb
+C:\infinite_oct2025\c#\practice\Utility_Billing_System\obj\Debug\Utility_Billing_System.csproj.AssemblyReference.cache
+C:\infinite_oct2025\c#\practice\Utility_Billing_System\obj\Debug\Utility_Billing_System.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\c#\practice\Utility_Billing_System\obj\Debug\Utility_Billing_System.exe
+C:\infinite_oct2025\c#\practice\Utility_Billing_System\obj\Debug\Utility_Billing_System.pdb
+C:\infinite_oct2025\c#\practice\Utility_Billing_System\obj\Debug\Utility_Billing_System.exe.config
+C:\infinite_oct2025\C#\Assignments\Utility_Billing_System\bin\Debug\Utility_Billing_System.exe.config
+C:\infinite_oct2025\C#\Assignments\Utility_Billing_System\bin\Debug\Utility_Billing_System.exe
+C:\infinite_oct2025\C#\Assignments\Utility_Billing_System\bin\Debug\Utility_Billing_System.pdb
+C:\infinite_oct2025\C#\Assignments\Utility_Billing_System\obj\Debug\Utility_Billing_System.csproj.AssemblyReference.cache
+C:\infinite_oct2025\C#\Assignments\Utility_Billing_System\obj\Debug\Utility_Billing_System.exe.config
+C:\infinite_oct2025\C#\Assignments\Utility_Billing_System\obj\Debug\Utility_Billing_System.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\C#\Assignments\Utility_Billing_System\obj\Debug\Utility_Billing_System.exe
+C:\infinite_oct2025\C#\Assignments\Utility_Billing_System\obj\Debug\Utility_Billing_System.pdb

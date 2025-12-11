@@ -1,0 +1,16 @@
+C:\infinite_oct2025\C#\practice\Assignment_Collections\bin\Debug\Assignment_Collections.exe.config
+C:\infinite_oct2025\C#\practice\Assignment_Collections\bin\Debug\Assignment_Collections.exe
+C:\infinite_oct2025\C#\practice\Assignment_Collections\bin\Debug\Assignment_Collections.pdb
+C:\infinite_oct2025\C#\practice\Assignment_Collections\obj\Debug\Assignment_Collections.csproj.AssemblyReference.cache
+C:\infinite_oct2025\C#\practice\Assignment_Collections\obj\Debug\Assignment_Collections.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\C#\practice\Assignment_Collections\obj\Debug\Assignment_Collections.exe
+C:\infinite_oct2025\C#\practice\Assignment_Collections\obj\Debug\Assignment_Collections.pdb
+C:\infinite_oct2025\C#\practice\Assignment_Collections\obj\Debug\Assignment_Collections.exe.config
+C:\infinite_oct2025\C#\Assignments\Assignment_Collections\bin\Debug\Assignment_Collections.exe.config
+C:\infinite_oct2025\C#\Assignments\Assignment_Collections\bin\Debug\Assignment_Collections.exe
+C:\infinite_oct2025\C#\Assignments\Assignment_Collections\bin\Debug\Assignment_Collections.pdb
+C:\infinite_oct2025\C#\Assignments\Assignment_Collections\obj\Debug\Assignment_Collections.csproj.AssemblyReference.cache
+C:\infinite_oct2025\C#\Assignments\Assignment_Collections\obj\Debug\Assignment_Collections.exe.config
+C:\infinite_oct2025\C#\Assignments\Assignment_Collections\obj\Debug\Assignment_Collections.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\C#\Assignments\Assignment_Collections\obj\Debug\Assignment_Collections.exe
+C:\infinite_oct2025\C#\Assignments\Assignment_Collections\obj\Debug\Assignment_Collections.pdb
