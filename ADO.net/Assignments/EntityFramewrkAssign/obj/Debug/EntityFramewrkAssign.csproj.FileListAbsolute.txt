@@ -1,0 +1,15 @@
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\bin\Debug\EntityFramewrkAssign.exe.config
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\bin\Debug\EntityFramewrkAssign.exe
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\bin\Debug\EntityFramewrkAssign.pdb
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\bin\Debug\EntityFramework.dll
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\bin\Debug\EntityFramework.xml
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\obj\Debug\EntityFramewrkAssign.csproj.AssemblyReference.cache
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\obj\Debug\EntityFramewrkAssign.csproj.CoreCompileInputs.cache
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\obj\Debug\EntityFr.D6FBC94B.Up2Date
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\obj\Debug\EntityFramewrkAssign.exe
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\obj\Debug\EntityFramewrkAssign.pdb
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\obj\Debug\EntityFramewrkAssign.exe.config
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\obj\Debug\EntityFramewrkAssign.Migrations.InitialCreate.resources
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Assignments\EntityFramewrkAssign\obj\Debug\EntityFramewrkAssign.csproj.GenerateResource.cache

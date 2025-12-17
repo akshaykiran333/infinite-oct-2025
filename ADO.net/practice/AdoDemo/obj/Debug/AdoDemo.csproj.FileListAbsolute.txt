@@ -1,0 +1,8 @@
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\AdoDemo\bin\Debug\AdoDemo.exe.config
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\AdoDemo\bin\Debug\AdoDemo.exe
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\AdoDemo\bin\Debug\AdoDemo.pdb
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\AdoDemo\obj\Debug\AdoDemo.csproj.AssemblyReference.cache
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\AdoDemo\obj\Debug\AdoDemo.csproj.CoreCompileInputs.cache
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\AdoDemo\obj\Debug\AdoDemo.exe
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\AdoDemo\obj\Debug\AdoDemo.pdb
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\AdoDemo\obj\Debug\AdoDemo.exe.config

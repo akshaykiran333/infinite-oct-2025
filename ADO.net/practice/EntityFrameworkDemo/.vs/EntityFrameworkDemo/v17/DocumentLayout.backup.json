@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|c:\\users\\akshayk\\onedrive - infinite computer solutions (india) limited\\desktop\\ado.net\\practice\\entityframeworkdemo\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|solutionrelative:model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|c:\\users\\akshayk\\onedrive - infinite computer solutions (india) limited\\desktop\\ado.net\\practice\\entityframeworkdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|solutionrelative:model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|solutionrelative:model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|solutionrelative:model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|solutionrelative:model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|solutionrelative:crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B6400AE7-57BD-4D47-874B-C2331E9CAD59}|EntityFrameworkDemo.csproj|solutionrelative:model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-15T12:34:35.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "Model1.Context.tt",
+              "ToolTip": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.Context.tt",
+              "RelativeToolTip": "Model1.Context.tt",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-15T11:43:48.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "Model1.Designer.cs",
+              "ToolTip": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.Designer.cs",
+              "RelativeToolTip": "Model1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:43:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.edmx.diagram",
+              "RelativeDocumentMoniker": "Model1.edmx.diagram",
+              "ToolTip": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.edmx.diagram",
+              "RelativeToolTip": "Model1.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-15T11:43:43.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:43:21.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-15T11:43:14.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.cs",
+              "RelativeDocumentMoniker": "Model1.cs",
+              "ToolTip": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.cs",
+              "RelativeToolTip": "Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:42:56.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Model1.Context.cs",
+              "ToolTip": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.Context.cs",
+              "RelativeToolTip": "Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:06:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\CRUD.cs",
+              "RelativeDocumentMoniker": "CRUD.cs",
+              "ToolTip": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\CRUD.cs*",
+              "RelativeToolTip": "CRUD.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:11:19.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-12-12T07:05:58.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\akshayk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\ADO.net\\practice\\EntityFrameworkDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:40:06.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

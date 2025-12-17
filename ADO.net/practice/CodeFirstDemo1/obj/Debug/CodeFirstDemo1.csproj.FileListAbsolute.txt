@@ -1,0 +1,14 @@
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.exe.config
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.exe
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\bin\Debug\CodeFirstDemo1.pdb
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\bin\Debug\EntityFramework.dll
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\bin\Debug\EntityFramework.xml
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csproj.AssemblyReference.cache
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.Migrations.InitialCreate.resources
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csproj.GenerateResource.cache
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.csproj.CoreCompileInputs.cache
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\obj\Debug\CodeFirs.050A6C75.Up2Date
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.exe
+C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\practice\CodeFirstDemo1\obj\Debug\CodeFirstDemo1.pdb
