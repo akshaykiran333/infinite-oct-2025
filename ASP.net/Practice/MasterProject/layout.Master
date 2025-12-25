@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="layout.master.cs" Inherits="MasterProject.layout" %>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>My Master</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        header, footer {
+            background-color: antiquewhite;
+            text-align: center;
+            font-size: 40px;
+            padding: 30px;
+        }
+
+        nav li {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        nav {
+            background-color: #ff6a00;
+            overflow: hidden;
+        }
+
+            nav li a {
+                float: left;
+                color: wheat;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+                font-size: 15px;
+            }
+
+        a:hover {
+            background-color: darkgray;
+            color: black;
+        }
+
+        section {
+            margin: 5px;
+            padding: 10px;
+            background-color: aliceblue
+        }
+
+        article {
+            margin: 5px;
+            padding: 10px;
+            background-color: lightblue;
+        }
+    </style>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+    <p>
+    </p>
+    <header>
+        Our Master Page Layout
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home </a></li>
+            <li><a href="#">About </a></li>
+            <li><a href="#">Contact </a></li>
+            <li><a href="Sampleform.aspx" style="float: right">SignUp </a></li>
+            <li><a href="#" style="float: right">SignIn</a></li>
+
+        </ul>
+    </nav>
+    <section>
+        <article>
+            <asp:ContentPlaceHolder ID="MainPlaceHolder" runat="server">
+                <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+            </asp:ContentPlaceHolder>
+          
+        </article>
+    </section>
+    <footer>
+        &copy;Infinite Computer ltd.;
+    </footer>
+    </form>
+</body>
+</html>

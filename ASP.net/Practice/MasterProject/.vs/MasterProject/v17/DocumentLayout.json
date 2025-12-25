@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct2025\\ASP.net\\Practice\\MasterProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B121A06-DBBC-4DB8-8910-07FC9354C71E}|MasterProject.csproj|c:\\infinite_oct2025\\asp.net\\practice\\masterproject\\layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0B121A06-DBBC-4DB8-8910-07FC9354C71E}|MasterProject.csproj|solutionrelative:layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B121A06-DBBC-4DB8-8910-07FC9354C71E}|MasterProject.csproj|c:\\infinite_oct2025\\asp.net\\practice\\masterproject\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B121A06-DBBC-4DB8-8910-07FC9354C71E}|MasterProject.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\Practice\\MasterProject\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebForm1.aspx",
+              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\Practice\\MasterProject\\WebForm1.aspx",
+              "RelativeToolTip": "WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-24T11:16:56.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "layout.Master",
+              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\Practice\\MasterProject\\layout.Master",
+              "RelativeDocumentMoniker": "layout.Master",
+              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\Practice\\MasterProject\\layout.Master",
+              "RelativeToolTip": "layout.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-24T10:48:24.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
