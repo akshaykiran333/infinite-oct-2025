@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git_Assignments\\C#_\\Assignments\\assign25-11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0086F-F94D-4B9A-8B1F-948FEDE47351}|assign25-11.csproj|c:\\git_assignments\\c#_\\assignments\\assign25-11\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C0086F-F94D-4B9A-8B1F-948FEDE47351}|assign25-11.csproj|solutionrelative:ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0086F-F94D-4B9A-8B1F-948FEDE47351}|assign25-11.csproj|c:\\git_assignments\\c#_\\assignments\\assign25-11\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C0086F-F94D-4B9A-8B1F-948FEDE47351}|assign25-11.csproj|solutionrelative:customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0086F-F94D-4B9A-8B1F-948FEDE47351}|assign25-11.csproj|c:\\git_assignments\\c#_\\assignments\\assign25-11\\calculatrtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C0086F-F94D-4B9A-8B1F-948FEDE47351}|assign25-11.csproj|solutionrelative:calculatrtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C0086F-F94D-4B9A-8B1F-948FEDE47351}|assign25-11.csproj|c:\\git_assignments\\c#_\\assignments\\assign25-11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C0086F-F94D-4B9A-8B1F-948FEDE47351}|assign25-11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assign25-11\\ILogger.cs",
+              "RelativeDocumentMoniker": "ILogger.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assign25-11\\ILogger.cs",
+              "RelativeToolTip": "ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:25:56.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerTests.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assign25-11\\CustomerTests.cs",
+              "RelativeDocumentMoniker": "CustomerTests.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assign25-11\\CustomerTests.cs",
+              "RelativeToolTip": "CustomerTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwCsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:20:54.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatrTest.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assign25-11\\CalculatrTest.cs",
+              "RelativeDocumentMoniker": "CalculatrTest.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assign25-11\\CalculatrTest.cs",
+              "RelativeToolTip": "CalculatrTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:19:30.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assign25-11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assign25-11\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:18:51.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

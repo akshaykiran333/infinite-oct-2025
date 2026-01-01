@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>change color</title>
+    <link rel="stylesheet" href="jquery.css"/>
+   
+</head>
+<body>
+
+    <script src="jquery.js"></script>
+    <input type="text" class="textbox" placeholder="Textbox 1"><br><br>
+    <input type="text" class="textbox" placeholder="Textbox 2"><br><br>
+    <input type="text" class="textbox" placeholder="Textbox 3"><br><br>
+
+    <button id="colorBtn">Change Color to Blue</button>
+
+    <script>
+            $("#colorBtn").click(function(){
+                $(".textbox").css("color", "blue"); 
+                $(".textbox").css("background-color", "#e0f0ff");
+                $(".textbox").css("border-color", "blue");
+            });
+    </script>
+        <a class="back-link" href="JQueryAssign1.5.html">Next Page -></a><br>
+       
+
+</body>
+</html>

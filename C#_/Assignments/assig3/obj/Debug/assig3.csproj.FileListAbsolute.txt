@@ -1,0 +1,2 @@
+C:\Git_Assignments\C#_\Assignments\assig3\obj\Debug\assig3.csproj.AssemblyReference.cache
+C:\Git_Assignments\C#_\Assignments\assig3\obj\Debug\assig3.csproj.CoreCompileInputs.cache

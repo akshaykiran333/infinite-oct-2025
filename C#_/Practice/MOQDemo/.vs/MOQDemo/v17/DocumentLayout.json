@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct2025\\C#\\practice\\MOQDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA8F9C4-3FC1-4F10-851B-041114211B7A}|MOQDemo.csproj|c:\\infinite_oct2025\\c#\\practice\\moqdemo\\testdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA8F9C4-3FC1-4F10-851B-041114211B7A}|MOQDemo.csproj|solutionrelative:testdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA8F9C4-3FC1-4F10-851B-041114211B7A}|MOQDemo.csproj|c:\\infinite_oct2025\\c#\\practice\\moqdemo\\fake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA8F9C4-3FC1-4F10-851B-041114211B7A}|MOQDemo.csproj|solutionrelative:fake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA8F9C4-3FC1-4F10-851B-041114211B7A}|MOQDemo.csproj|c:\\infinite_oct2025\\c#\\practice\\moqdemo\\client1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA8F9C4-3FC1-4F10-851B-041114211B7A}|MOQDemo.csproj|solutionrelative:client1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA8F9C4-3FC1-4F10-851B-041114211B7A}|MOQDemo.csproj|c:\\infinite_oct2025\\c#\\practice\\moqdemo\\stub1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA8F9C4-3FC1-4F10-851B-041114211B7A}|MOQDemo.csproj|solutionrelative:stub1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA8F9C4-3FC1-4F10-851B-041114211B7A}|MOQDemo.csproj|c:\\infinite_oct2025\\c#\\practice\\moqdemo\\imath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA8F9C4-3FC1-4F10-851B-041114211B7A}|MOQDemo.csproj|solutionrelative:imath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fake.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\MOQDemo\\Fake.cs",
+              "RelativeDocumentMoniker": "Fake.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\MOQDemo\\Fake.cs",
+              "RelativeToolTip": "Fake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:43:10.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestDemo.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\MOQDemo\\TestDemo.cs",
+              "RelativeDocumentMoniker": "TestDemo.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\MOQDemo\\TestDemo.cs",
+              "RelativeToolTip": "TestDemo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:37:09.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client1.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\MOQDemo\\Client1.cs",
+              "RelativeDocumentMoniker": "Client1.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\MOQDemo\\Client1.cs",
+              "RelativeToolTip": "Client1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:32:29.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stub1.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\MOQDemo\\Stub1.cs",
+              "RelativeDocumentMoniker": "Stub1.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\MOQDemo\\Stub1.cs",
+              "RelativeToolTip": "Stub1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:31:42.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMath.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\C#\\practice\\MOQDemo\\IMath.cs",
+              "RelativeDocumentMoniker": "IMath.cs",
+              "ToolTip": "C:\\infinite_oct2025\\C#\\practice\\MOQDemo\\IMath.cs",
+              "RelativeToolTip": "IMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:23:05.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

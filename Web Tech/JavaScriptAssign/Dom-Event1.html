@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom1</title>
+    <link rel="stylesheet" href="Dom.css"/>
+</head>
+<body>
+   
+    <label>Select Color:</label>
+    <select id="colorSelect" onchange="changeColor(this.value)">
+        <option value="">--Select--</option>
+        <option value="red">Red</option>
+        <option value="green">Green</option>
+        <option value="blue">Blue</option>
+        <option value="yellow">Yellow</option>
+    </select>
+    
+    <div id="colorBox"></div>
+    
+    <script>
+        function changeColor(color) {
+            document.getElementById("colorBox").style.backgroundColor = color;
+        }
+    </script>
+     
+</body>
+</html>

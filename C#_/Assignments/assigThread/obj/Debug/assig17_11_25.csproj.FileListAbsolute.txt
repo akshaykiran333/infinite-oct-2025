@@ -1,0 +1,7 @@
+C:\Git_Assignments\C#_\Assignments\assigThread\bin\Debug\assigThread.exe.config
+C:\Git_Assignments\C#_\Assignments\assigThread\bin\Debug\assigThread.exe
+C:\Git_Assignments\C#_\Assignments\assigThread\bin\Debug\assigThread.pdb
+C:\Git_Assignments\C#_\Assignments\assigThread\obj\Debug\assig17_11_25.csproj.AssemblyReference.cache
+C:\Git_Assignments\C#_\Assignments\assigThread\obj\Debug\assig17_11_25.csproj.CoreCompileInputs.cache
+C:\Git_Assignments\C#_\Assignments\assigThread\obj\Debug\assigThread.exe
+C:\Git_Assignments\C#_\Assignments\assigThread\obj\Debug\assigThread.pdb

@@ -1,0 +1,6 @@
+C:\infinite_oct2025\C#\practice\RemotingLib\bin\Debug\RemotingLib.dll
+C:\infinite_oct2025\C#\practice\RemotingLib\bin\Debug\RemotingLib.pdb
+C:\infinite_oct2025\C#\practice\RemotingLib\obj\Debug\RemotingLib.csproj.AssemblyReference.cache
+C:\infinite_oct2025\C#\practice\RemotingLib\obj\Debug\RemotingLib.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\C#\practice\RemotingLib\obj\Debug\RemotingLib.dll
+C:\infinite_oct2025\C#\practice\RemotingLib\obj\Debug\RemotingLib.pdb

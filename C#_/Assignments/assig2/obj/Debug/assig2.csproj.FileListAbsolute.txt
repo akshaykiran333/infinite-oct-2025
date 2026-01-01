@@ -1,0 +1,7 @@
+C:\Git_Assignments\C#_\Assignments\assig2\obj\Debug\assig2.csproj.AssemblyReference.cache
+C:\Git_Assignments\C#_\Assignments\assig2\obj\Debug\assig2.csproj.CoreCompileInputs.cache
+C:\Git_Assignments\C#_\Assignments\assig2\bin\Debug\assig2.exe.config
+C:\Git_Assignments\C#_\Assignments\assig2\bin\Debug\assig2.exe
+C:\Git_Assignments\C#_\Assignments\assig2\bin\Debug\assig2.pdb
+C:\Git_Assignments\C#_\Assignments\assig2\obj\Debug\assig2.exe
+C:\Git_Assignments\C#_\Assignments\assig2\obj\Debug\assig2.pdb

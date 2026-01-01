@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>validation</title>
+    <link rel="stylesheet" href="jquery.css"/>
+   
+</head>
+<body>
+    <script src="jquery.js"></script>
+    
+    <div class="login-container">
+        <h2>Login</h2>
+
+        <input type="text" id="username" placeholder="Username"><br>
+        <input type="password" id="password" placeholder="Password"><br>
+
+        <button id="loginBtn">Login</button>
+
+        <p id="message"></p>
+    </div>
+
+    <script>
+        $(document).ready(function(){
+            $("#loginBtn").click(function(){
+
+                var username = $("#username").val();
+                var password = $("#password").val();
+
+               
+                if(username === "" || password === "") {
+                    $("#message").text("Please enter both username and password").css("color", "red");
+                }
+                else if(username === "admin" && password === "123") {
+                    $("#message").text("Login Successful!").css("color", "green");
+                } else {
+                    $("#message").text("Invalid Username or Password").css("color", "red");
+                }
+            });
+        });
+    </script>
+
+        <a class="back-link" href="JQueryAssign1.6.html">Next Page -></a><br>
+       
+
+</body>
+</html>

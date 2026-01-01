@@ -1,8 +1,0 @@
-C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Ado-netAssignment\obj\Debug\Ado-netAssignment.csproj.AssemblyReference.cache
-C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Ado-netAssignment\obj\Debug\Ado-netAssignment.csproj.CoreCompileInputs.cache
-C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Ado-netAssignment\bin\Debug\Ado-netAssignment.exe.config
-C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Ado-netAssignment\bin\Debug\Ado-netAssignment.exe
-C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Ado-netAssignment\bin\Debug\Ado-netAssignment.pdb
-C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Ado-netAssignment\obj\Debug\Ado-netAssignment.exe
-C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Ado-netAssignment\obj\Debug\Ado-netAssignment.pdb
-C:\Users\akshayk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\ADO.net\Ado-netAssignment\obj\Debug\Ado-netAssignment.exe.config

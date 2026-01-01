@@ -1,0 +1,8 @@
+C:\infinite_oct2025\C#\practice\Solids_Demo\obj\Debug\Solids_Demo.csproj.AssemblyReference.cache
+C:\infinite_oct2025\C#\practice\Solids_Demo\obj\Debug\Solids_Demo.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\C#\practice\Solids_Demo\bin\Debug\Solids_Demo.exe.config
+C:\infinite_oct2025\C#\practice\Solids_Demo\bin\Debug\Solids_Demo.exe
+C:\infinite_oct2025\C#\practice\Solids_Demo\bin\Debug\Solids_Demo.pdb
+C:\infinite_oct2025\C#\practice\Solids_Demo\obj\Debug\Solids_Demo.exe
+C:\infinite_oct2025\C#\practice\Solids_Demo\obj\Debug\Solids_Demo.pdb
+C:\infinite_oct2025\C#\practice\Solids_Demo\obj\Debug\Solids_Demo.exe.config

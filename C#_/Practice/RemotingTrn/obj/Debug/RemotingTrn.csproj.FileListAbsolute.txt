@@ -1,0 +1,6 @@
+C:\infinite_oct2025\C#\practice\RemotingTrn\bin\Debug\RemotingTrn.dll
+C:\infinite_oct2025\C#\practice\RemotingTrn\bin\Debug\RemotingTrn.pdb
+C:\infinite_oct2025\C#\practice\RemotingTrn\obj\Debug\RemotingTrn.csproj.AssemblyReference.cache
+C:\infinite_oct2025\C#\practice\RemotingTrn\obj\Debug\RemotingTrn.csproj.CoreCompileInputs.cache
+C:\infinite_oct2025\C#\practice\RemotingTrn\obj\Debug\RemotingTrn.dll
+C:\infinite_oct2025\C#\practice\RemotingTrn\obj\Debug\RemotingTrn.pdb

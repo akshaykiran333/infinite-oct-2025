@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git_Assignments\\C#_\\Assignments\\assigThread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD0F819-D64C-4592-BE82-D601FF60BDB8}|assig17_11_25.csproj|c:\\git_assignments\\c#_\\assignments\\assigthread\\studentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD0F819-D64C-4592-BE82-D601FF60BDB8}|assig17_11_25.csproj|solutionrelative:studentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD0F819-D64C-4592-BE82-D601FF60BDB8}|assig17_11_25.csproj|c:\\git_assignments\\c#_\\assignments\\assigthread\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD0F819-D64C-4592-BE82-D601FF60BDB8}|assig17_11_25.csproj|solutionrelative:factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD0F819-D64C-4592-BE82-D601FF60BDB8}|assig17_11_25.csproj|c:\\git_assignments\\c#_\\assignments\\assigthread\\printnousingthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD0F819-D64C-4592-BE82-D601FF60BDB8}|assig17_11_25.csproj|solutionrelative:printnousingthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD0F819-D64C-4592-BE82-D601FF60BDB8}|assig17_11_25.csproj|c:\\git_assignments\\c#_\\assignments\\assigthread\\randomintegrs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD0F819-D64C-4592-BE82-D601FF60BDB8}|assig17_11_25.csproj|solutionrelative:randomintegrs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD0F819-D64C-4592-BE82-D601FF60BDB8}|assigThread.csproj|c:\\git_assignments\\c#_\\assignments\\assigthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD0F819-D64C-4592-BE82-D601FF60BDB8}|assigThread.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentPartial.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assigThread\\StudentPartial.cs",
+              "RelativeDocumentMoniker": "StudentPartial.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assigThread\\StudentPartial.cs",
+              "RelativeToolTip": "StudentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:11:17.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomIntegrs.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assigThread\\RandomIntegrs.cs",
+              "RelativeDocumentMoniker": "RandomIntegrs.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assigThread\\RandomIntegrs.cs",
+              "RelativeToolTip": "RandomIntegrs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:10:12.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrintNoUsingThread.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assigThread\\PrintNoUsingThread.cs",
+              "RelativeDocumentMoniker": "PrintNoUsingThread.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assigThread\\PrintNoUsingThread.cs",
+              "RelativeToolTip": "PrintNoUsingThread.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:09:32.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assigThread\\Factorial.cs",
+              "RelativeDocumentMoniker": "Factorial.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assigThread\\Factorial.cs",
+              "RelativeToolTip": "Factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:08:47.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assigThread\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assigThread\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:05:35.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

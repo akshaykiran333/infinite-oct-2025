@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct2025\\Web Services\\WebServicePrj1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4C8B0-C165-4609-BC1A-7B30B908A4B0}|..\\WebClient1\\WebClient1.csproj|c:\\infinite_oct2025\\web services\\webclient1\\clientform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4C8B0-C165-4609-BC1A-7B30B908A4B0}|..\\WebClient1\\WebClient1.csproj|c:\\infinite_oct2025\\web services\\webclient1\\clientform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E4C8B0-C165-4609-BC1A-7B30B908A4B0}|..\\WebClient1\\WebClient1.csproj|c:\\infinite_oct2025\\web services\\webclient1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6D893D-ECC8-4E96-85ED-601282995669}|WebServicePrj1.csproj|c:\\infinite_oct2025\\web services\\webserviceprj1\\webinfiniteservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6D893D-ECC8-4E96-85ED-601282995669}|WebServicePrj1.csproj|solutionrelative:webinfiniteservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\infinite_oct2025\\Web Services\\WebClient1\\Web.config",
+              "RelativeDocumentMoniker": "..\\WebClient1\\Web.config",
+              "ToolTip": "C:\\infinite_oct2025\\Web Services\\WebClient1\\Web.config",
+              "RelativeToolTip": "..\\WebClient1\\Web.config",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-31T09:41:45.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientForm.aspx.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\Web Services\\WebClient1\\ClientForm.aspx.cs",
+              "RelativeDocumentMoniker": "..\\WebClient1\\ClientForm.aspx.cs",
+              "ToolTip": "C:\\infinite_oct2025\\Web Services\\WebClient1\\ClientForm.aspx.cs",
+              "RelativeToolTip": "..\\WebClient1\\ClientForm.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:02:23.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientForm.aspx",
+              "DocumentMoniker": "C:\\infinite_oct2025\\Web Services\\WebClient1\\ClientForm.aspx",
+              "RelativeDocumentMoniker": "..\\WebClient1\\ClientForm.aspx",
+              "ToolTip": "C:\\infinite_oct2025\\Web Services\\WebClient1\\ClientForm.aspx",
+              "RelativeToolTip": "..\\WebClient1\\ClientForm.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-31T05:57:06.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebInfiniteService.asmx.cs",
+              "DocumentMoniker": "C:\\infinite_oct2025\\Web Services\\WebServicePrj1\\WebInfiniteService.asmx.cs",
+              "RelativeDocumentMoniker": "WebInfiniteService.asmx.cs",
+              "ToolTip": "C:\\infinite_oct2025\\Web Services\\WebServicePrj1\\WebInfiniteService.asmx.cs",
+              "RelativeToolTip": "WebInfiniteService.asmx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:30:35.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSProgramming</title>
+</head>
+<body>
+    <script>
+
+        /*1. find greatest of 3 numbers */
+
+        var a = 10;
+        var b = 25;
+        var c = 15;
+    
+        if (a >= b && a >= c) {
+            document.write("Greatest number is: " + a);
+        } else if (b >= a && b >= c) {
+            document.write("Greatest number is: " + b);
+        } else {
+            document.write("Greatest number is: " + c);
+        }
+        document.write("<br><br>");
+
+        /* 2.find simple interest of number   */
+        var p=1000;
+        var t=3;
+        var r=10;
+        var si=p*t*r/100;
+        document.write("simple intrest is"+si);
+        document.write("<br><br>");
+
+        /*3.get the difference between a given number and 13, if the number is 
+        greater than 13 return double the difference.*/
+
+    var num = 20;
+    var diff;
+
+    if (num > 13) {
+        diff = (num - 13) * 2;
+        document.write("Number is greater than 13<br>");
+        document.write("Double the difference is: " + diff);
+    } else {
+        diff = 13 - num;
+        document.write("Difference is: " + diff);
+    }
+    /*   4.JavaScript for loop that will iterate from 0 to 15. For each iteration, it will check if the 
+        current number is odd or even, and display a message to the screen*/
+      for (let i = 0; i <= 15; i++) {
+        if (i % 2 === 0) {
+            document.write(i + " is Even<br>");
+        } else {
+            document.write(i + " is Odd<br>");
+        }
+    }
+    </script>
+</body>
+</html>

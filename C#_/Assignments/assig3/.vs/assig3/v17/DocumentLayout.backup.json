@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git_Assignments\\C#_\\Assignments\\assig3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D5AA7D-5419-46CB-B94C-88E9EE0FA43B}|assig3.csproj|c:\\git_assignments\\c#_\\assignments\\assig3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D5AA7D-5419-46CB-B94C-88E9EE0FA43B}|assig3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D5AA7D-5419-46CB-B94C-88E9EE0FA43B}|assig3.csproj|c:\\git_assignments\\c#_\\assignments\\assig3\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D5AA7D-5419-46CB-B94C-88E9EE0FA43B}|assig3.csproj|solutionrelative:customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerInfo.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assig3\\CustomerInfo.cs",
+              "RelativeDocumentMoniker": "CustomerInfo.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assig3\\CustomerInfo.cs*",
+              "RelativeToolTip": "CustomerInfo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T13:31:10.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assig3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assig3\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T13:30:37.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

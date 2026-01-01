@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom4</title>
+    <link rel="stylesheet" href="Dom.css"/>
+</head>
+<body>
+  <h2>Display Name Multiple Times</h2>
+
+  <label for="number">Enter number:</label>
+  <input type="number" id="number" min="1" placeholder="Enter number">
+  
+  <label for="name">Enter name:</label>
+  <input type="text" id="name" placeholder="Enter name">
+  
+  <button id="displayBtn">Display</button>
+  
+  <div id="output"></div>
+  
+  <script>
+    const numberInput = document.getElementById('number');
+    const nameInput = document.getElementById('name');
+    const displayBtn = document.getElementById('displayBtn');
+    const outputDiv = document.getElementById('output');
+  
+    displayBtn.addEventListener('click', () => {
+      const count = parseInt(numberInput.value);
+      const name = nameInput.value.trim();
+  
+   
+      outputDiv.innerHTML = '';
+  
+      if (!name || isNaN(count) || count < 1) {
+        outputDiv.textContent = 'Please enter a valid name and number greater than 0.';
+        return;
+      }
+  
+      
+      for (let i = 0; i < count; i++) {
+        const p = document.createElement('p');
+        p.textContent = name;
+        outputDiv.appendChild(p);
+      }
+    });
+  </script>
+  
+</body>
+</html>

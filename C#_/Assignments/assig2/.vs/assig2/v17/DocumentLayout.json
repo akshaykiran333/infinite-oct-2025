@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git_Assignments\\C#_\\Assignments\\assig2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC6C56B-BBD3-4BFE-8B9A-29B86E692F12}|assig2.csproj|c:\\git_assignments\\c#_\\assignments\\assig2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC6C56B-BBD3-4BFE-8B9A-29B86E692F12}|assig2.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC6C56B-BBD3-4BFE-8B9A-29B86E692F12}|assig2.csproj|c:\\git_assignments\\c#_\\assignments\\assig2\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC6C56B-BBD3-4BFE-8B9A-29B86E692F12}|assig2.csproj|solutionrelative:pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC6C56B-BBD3-4BFE-8B9A-29B86E692F12}|assig2.csproj|c:\\git_assignments\\c#_\\assignments\\assig2\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC6C56B-BBD3-4BFE-8B9A-29B86E692F12}|assig2.csproj|solutionrelative:ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC6C56B-BBD3-4BFE-8B9A-29B86E692F12}|assig2.csproj|c:\\git_assignments\\c#_\\assignments\\assig2\\rideeasyapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC6C56B-BBD3-4BFE-8B9A-29B86E692F12}|assig2.csproj|solutionrelative:rideeasyapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC6C56B-BBD3-4BFE-8B9A-29B86E692F12}|assig2.csproj|c:\\git_assignments\\c#_\\assignments\\assig2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC6C56B-BBD3-4BFE-8B9A-29B86E692F12}|assig2.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assig2\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assig2\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T13:28:35.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RideEasyApplication.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assig2\\RideEasyApplication.cs",
+              "RelativeDocumentMoniker": "RideEasyApplication.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assig2\\RideEasyApplication.cs",
+              "RelativeToolTip": "RideEasyApplication.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T13:28:10.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assig2\\Ride.cs",
+              "RelativeDocumentMoniker": "Ride.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assig2\\Ride.cs",
+              "RelativeToolTip": "Ride.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T13:27:32.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pricing.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assig2\\Pricing.cs",
+              "RelativeDocumentMoniker": "Pricing.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assig2\\Pricing.cs",
+              "RelativeToolTip": "Pricing.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T13:27:02.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\C#_\\Assignments\\assig2\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Git_Assignments\\C#_\\Assignments\\assig2\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T13:26:15.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

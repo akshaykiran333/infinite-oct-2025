@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hide image</title>
+    <link rel="stylesheet" href="jquery.css"/>
+   
+</head>
+<body>
+    <script src="jquery.js"></script>
+    <img id="imageid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8gj5fIjwNIQA-XGiRUP6OOANIpeviIbcrQ&s" alt="Image">
+
+    <br>
+
+    <button id="changeBtn">Change Image</button>
+
+    <script>
+            $("#changeBtn").click(function(){
+                $("#imageid").attr("src", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPP-CJiqGkCW0JSA6e8NQPVrXF1D9PmgqA6w&s");
+            });
+    </script>
+    <a class="back-link" href="JQueryAssign1.4.html">Next Page -></a><br>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Git_Assignments\C#_\Assignments\RestrntOrdrMng\bin\Debug\RestrntOrdrMng.exe.config
+C:\Git_Assignments\C#_\Assignments\RestrntOrdrMng\bin\Debug\RestrntOrdrMng.exe
+C:\Git_Assignments\C#_\Assignments\RestrntOrdrMng\bin\Debug\RestrntOrdrMng.pdb
+C:\Git_Assignments\C#_\Assignments\RestrntOrdrMng\obj\Debug\RestrntOrdrMng.csproj.AssemblyReference.cache
+C:\Git_Assignments\C#_\Assignments\RestrntOrdrMng\obj\Debug\RestrntOrdrMng.csproj.CoreCompileInputs.cache
+C:\Git_Assignments\C#_\Assignments\RestrntOrdrMng\obj\Debug\RestrntOrdrMng.exe
+C:\Git_Assignments\C#_\Assignments\RestrntOrdrMng\obj\Debug\RestrntOrdrMng.pdb
