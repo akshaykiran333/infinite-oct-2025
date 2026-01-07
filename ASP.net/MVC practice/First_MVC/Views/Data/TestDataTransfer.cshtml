@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "TestDataTransfer";
+}
+
+<h2>TestDataTransfer</h2>
+<h3> @ViewBag.data1</h3>
+<h4>@ViewBag.data2</h4>
+@foreach(var item in TempData["fruit"] as List<string>)
+            {
+                <p>@item</p>
+            }
+

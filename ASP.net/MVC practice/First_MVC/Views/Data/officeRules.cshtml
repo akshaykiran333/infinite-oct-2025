@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "officeRules";
+}
+
+<h2>officeRulesthrugh viewbag</h2>
+@foreach (string s in ViewBag.offrules)
+{
+    <ol><li> @s</li></ol>
+
+}
+<br />
+
+<hr />
+<h2>office through viewdata</h2>
+@foreach (string s in ViewData["or"] as List<string>)
+            {
+                    <ol><li>@s</li></ol>
+            }
+

@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="infinite2025ModelStoreContainer" CdmEntityContainer="infinite2025Entities1">
+    <EntitySetMapping Name="Customers1">
+      <EntityTypeMapping TypeName="infinite2025Model.Customers1">
+        <MappingFragment StoreEntitySet="Customers1">
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customersxes">
+      <EntityTypeMapping TypeName="infinite2025Model.Customersx">
+        <MappingFragment StoreEntitySet="Customersx">
+          <ScalarProperty Name="custId" ColumnName="custId" />
+          <ScalarProperty Name="CustName" ColumnName="CustName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="City" ColumnName="City" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Departments">
+      <EntityTypeMapping TypeName="infinite2025Model.Department">
+        <MappingFragment StoreEntitySet="Department">
+          <ScalarProperty Name="DeptID" ColumnName="DeptID" />
+          <ScalarProperty Name="DeptName" ColumnName="DeptName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Departments1">
+      <EntityTypeMapping TypeName="infinite2025Model.Department1">
+        <MappingFragment StoreEntitySet="Departments">
+          <ScalarProperty Name="DeptId" ColumnName="DeptId" />
+          <ScalarProperty Name="DeptName" ColumnName="DeptName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="infinite2025Model.Employee">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="EmpId" ColumnName="EmpId" />
+          <ScalarProperty Name="EmpName" ColumnName="EmpName" />
+          <ScalarProperty Name="DeptId" ColumnName="DeptId" />
+          <ScalarProperty Name="ManagerId" ColumnName="ManagerId" />
+          <ScalarProperty Name="JoinDate" ColumnName="JoinDate" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees2">
+      <EntityTypeMapping TypeName="infinite2025Model.Employees2">
+        <MappingFragment StoreEntitySet="Employees2">
+          <ScalarProperty Name="EmployeeID" ColumnName="EmployeeID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Department" ColumnName="Department" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders1">
+      <EntityTypeMapping TypeName="infinite2025Model.Orders1">
+        <MappingFragment StoreEntitySet="Orders1">
+          <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+          <ScalarProperty Name="CustomerID" ColumnName="CustomerID" />
+          <ScalarProperty Name="OrderAmount" ColumnName="OrderAmount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders3">
+      <EntityTypeMapping TypeName="infinite2025Model.Orders3">
+        <MappingFragment StoreEntitySet="Orders3">
+          <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sales">
+      <EntityTypeMapping TypeName="infinite2025Model.Sale">
+        <MappingFragment StoreEntitySet="Sales">
+          <ScalarProperty Name="SaleId" ColumnName="SaleId" />
+          <ScalarProperty Name="EmpId" ColumnName="EmpId" />
+          <ScalarProperty Name="Region" ColumnName="Region" />
+          <ScalarProperty Name="SaleAmount" ColumnName="SaleAmount" />
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbldepartments">
+      <EntityTypeMapping TypeName="infinite2025Model.tbldepartment">
+        <MappingFragment StoreEntitySet="tbldepartment">
+          <ScalarProperty Name="deptid" ColumnName="deptid" />
+          <ScalarProperty Name="deptname" ColumnName="deptname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Transactions">
+      <EntityTypeMapping TypeName="infinite2025Model.Transaction">
+        <MappingFragment StoreEntitySet="Transactions">
+          <ScalarProperty Name="TransId" ColumnName="TransId" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="TransDate" ColumnName="TransDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="storelogs">
+      <EntityTypeMapping TypeName="infinite2025Model.storelog">
+        <MappingFragment StoreEntitySet="storelogs">
+          <ScalarProperty Name="logid" ColumnName="logid" />
+          <ScalarProperty Name="errormessage" ColumnName="errormessage" />
+          <ScalarProperty Name="errordate" ColumnName="errordate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="myviews">
+      <EntityTypeMapping TypeName="infinite2025Model.myview">
+        <MappingFragment StoreEntitySet="myview">
+          <ScalarProperty Name="Empid" ColumnName="Empid" />
+          <ScalarProperty Name="Empname" ColumnName="Empname" />
+          <ScalarProperty Name="Deptid" ColumnName="Deptid" />
+          <ScalarProperty Name="joinDate" ColumnName="joinDate" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="AnnualSalary" ColumnName="AnnualSalary" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ViewEmployeeDetails2">
+      <EntityTypeMapping TypeName="infinite2025Model.ViewEmployeeDetails2">
+        <MappingFragment StoreEntitySet="ViewEmployeeDetails2">
+          <ScalarProperty Name="EmpID" ColumnName="EmpID" />
+          <ScalarProperty Name="EmpName" ColumnName="EmpName" />
+          <ScalarProperty Name="DeptId" ColumnName="DeptId" />
+          <ScalarProperty Name="TotalSales" ColumnName="TotalSales" />
+          <ScalarProperty Name="SalesRank" ColumnName="SalesRank" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionName="infinite2025Model.Store.getlastN_years" FunctionImportName="getlastN_years">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="infinite2025Model.getlastN_years_Result">
+          <ScalarProperty Name="custid" ColumnName="custid" />
+          <ScalarProperty Name="orderid" ColumnName="orderid" />
+          <ScalarProperty Name="orderdate" ColumnName="orderdate" />
+          <ScalarProperty Name="products" ColumnName="products" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="A1" FunctionName="infinite2025Model.Store.A1" />
+    <FunctionImportMapping FunctionImportName="Addproc" FunctionName="infinite2025Model.Store.Addproc" />
+    <FunctionImportMapping FunctionImportName="Addproc1" FunctionName="infinite2025Model.Store.Addproc1" />
+    <FunctionImportMapping FunctionImportName="addproc2" FunctionName="infinite2025Model.Store.addproc2" />
+    <FunctionImportMapping FunctionImportName="alldetails" FunctionName="infinite2025Model.Store.alldetails">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="infinite2025Model.alldetails_Result">
+          <ScalarProperty Name="customerid" ColumnName="customerid" />
+          <ScalarProperty Name="customername" ColumnName="customername" />
+          <ScalarProperty Name="customerage" ColumnName="customerage" />
+          <ScalarProperty Name="caddress" ColumnName="caddress" />
+          <ScalarProperty Name="cphone" ColumnName="cphone" />
+          <ScalarProperty Name="row" ColumnName="row" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="displaydata" FunctionName="infinite2025Model.Store.displaydata" />
+    <FunctionImportMapping FunctionImportName="divide" FunctionName="infinite2025Model.Store.divide" />
+    <FunctionImportMapping FunctionImportName="divided" FunctionName="infinite2025Model.Store.divided" />
+    <FunctionImportMapping FunctionImportName="pro2" FunctionName="infinite2025Model.Store.pro2">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="infinite2025Model.pro2_Result">
+          <ScalarProperty Name="custid" ColumnName="custid" />
+          <ScalarProperty Name="orderid" ColumnName="orderid" />
+          <ScalarProperty Name="orderdate" ColumnName="orderdate" />
+          <ScalarProperty Name="products" ColumnName="products" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pro3" FunctionName="infinite2025Model.Store.pro3">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="infinite2025Model.pro3_Result">
+          <ScalarProperty Name="orderid" ColumnName="orderid" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pro4" FunctionName="infinite2025Model.Store.pro4" />
+    <FunctionImportMapping FunctionImportName="sp_getdata" FunctionName="infinite2025Model.Store.sp_getdata" />
+    <FunctionImportMapping FunctionImportName="sp_GetEmployeesByDOJ" FunctionName="infinite2025Model.Store.sp_GetEmployeesByDOJ" />
+    <FunctionImportMapping FunctionImportName="spAddEmployee" FunctionName="infinite2025Model.Store.spAddEmployee" />
+    <FunctionImportMapping FunctionImportName="spGetProductsByCategory" FunctionName="infinite2025Model.Store.spGetProductsByCategory">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="infinite2025Model.spGetProductsByCategory_Result">
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="CustID" ColumnName="CustID" />
+          <ScalarProperty Name="Product" ColumnName="Product" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
