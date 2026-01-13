@@ -1,0 +1,30 @@
+﻿
+@model IEnumerable<MVC_CC8.Models.Customer>
+
+@{
+    ViewBag.Title = "Customer Details With Order Id ==10248";
+}
+
+<h2 style="text-align:center; color:orangered;">Customer Details With Order Id ==10248</h2>
+
+<table border="1" style="width:80%; margin:auto; border-collapse:collapse; background-color:greenyellow;">
+    <thead>
+        <tr style="background-color:#4CAF50;">
+            <th style="padding:8px;">Customer ID</th>
+            <th style="padding:8px;">Company Name</th>
+            <th style="padding:8px;">Contact Name</th>
+            <th style="padding:8px;">Country</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr style="background-color:#f9f9f9;">
+                <td style="padding:8px;">@customer.CustomerID</td>
+                <td style="padding:8px;">@customer.CompanyName</td>
+                <td style="padding:8px;">@customer.ContactName</td>
+                <td style="padding:8px;">@customer.Country</td>
+            </tr>
+        }
+    </tbody>
+</table>

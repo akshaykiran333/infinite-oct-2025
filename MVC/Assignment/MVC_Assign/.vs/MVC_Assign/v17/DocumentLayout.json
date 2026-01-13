@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\",
+  "WorkspaceRootPath": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|c:\\infinite_oct2025\\asp.net\\mvc assignment\\mvc_assign\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|c:\\git_assignments\\mvc\\assignment\\mvc_assign\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|c:\\infinite_oct2025\\asp.net\\mvc assignment\\mvc_assign\\migrations\\202601071735168_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\migrations\\202601071735168_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|solutionrelative:migrations\\202601071735168_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|c:\\infinite_oct2025\\asp.net\\mvc assignment\\mvc_assign\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|solutionrelative:repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|solutionrelative:models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|solutionrelative:repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|c:\\infinite_oct2025\\asp.net\\mvc assignment\\mvc_assign\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|c:\\infinite_oct2025\\asp.net\\mvc assignment\\mvc_assign\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|solutionrelative:views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|c:\\infinite_oct2025\\asp.net\\mvc assignment\\mvc_assign\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|solutionrelative:views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|c:\\infinite_oct2025\\asp.net\\mvc assignment\\mvc_assign\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{042AF9F9-0DA5-4386-A021-E0FA5440FB56}|MVC_Assign.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -64,35 +64,33 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "202601071735168_Initial Create.cs",
-              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Migrations\\202601071735168_Initial Create.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Migrations\\202601071735168_Initial Create.cs",
               "RelativeDocumentMoniker": "Migrations\\202601071735168_Initial Create.cs",
-              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Migrations\\202601071735168_Initial Create.cs",
+              "ToolTip": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Migrations\\202601071735168_Initial Create.cs",
               "RelativeToolTip": "Migrations\\202601071735168_Initial Create.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T17:35:22.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T17:35:22.247Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Migrations\\Configuration.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
-              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Migrations\\Configuration.cs",
               "RelativeToolTip": "Migrations\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T17:34:50.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T17:34:50.951Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Views\\Contact\\Index.cshtml",
+              "DocumentMoniker": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Views\\Contact\\Index.cshtml",
               "RelativeToolTip": "Views\\Contact\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -103,74 +101,69 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Controllers\\ContactController.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
-              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Controllers\\ContactController.cs",
               "RelativeToolTip": "Controllers\\ContactController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:54:03.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T17:54:03.671Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Models\\Contact.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "Models\\Contact.cs",
-              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Models\\Contact.cs",
+              "ToolTip": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Models\\Contact.cs",
               "RelativeToolTip": "Models\\Contact.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:05:43.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T17:05:43.378Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ContactContext.cs",
-              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Models\\ContactContext.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Models\\ContactContext.cs",
               "RelativeDocumentMoniker": "Models\\ContactContext.cs",
-              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Models\\ContactContext.cs",
+              "ToolTip": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Models\\ContactContext.cs",
               "RelativeToolTip": "Models\\ContactContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:07:33.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T17:07:33.666Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ContactRepository.cs",
-              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Repository\\ContactRepository.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Repository\\ContactRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ContactRepository.cs",
-              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Repository\\ContactRepository.cs",
               "RelativeToolTip": "Repository\\ContactRepository.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAIAwwA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:25:31.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T17:25:31.54Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IContactRepository.cs",
-              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Repository\\IContactRepository.cs",
+              "DocumentMoniker": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Repository\\IContactRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IContactRepository.cs",
-              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Repository\\IContactRepository.cs",
+              "ToolTip": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Repository\\IContactRepository.cs",
               "RelativeToolTip": "Repository\\IContactRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T17:23:44.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T17:23:44.973Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Web.config",
+              "DocumentMoniker": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Web.config",
+              "ToolTip": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Web.config",
               "RelativeToolTip": "Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -181,27 +174,25 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Views\\Contact\\Create.cshtml",
+              "DocumentMoniker": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Views\\Contact\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Contact\\Create.cshtml",
-              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Views\\Contact\\Create.cshtml",
               "RelativeToolTip": "Views\\Contact\\Create.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-07T16:19:17.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T16:19:17.234Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Views\\Contact\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Views\\Contact\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Contact\\Delete.cshtml",
-              "ToolTip": "C:\\infinite_oct2025\\ASP.net\\MVC Assignment\\MVC_Assign\\Views\\Contact\\Delete.cshtml",
+              "ToolTip": "C:\\Git_Assignments\\MVC\\Assignment\\MVC_Assign\\Views\\Contact\\Delete.cshtml",
               "RelativeToolTip": "Views\\Contact\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-07T17:03:30.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T17:03:30.699Z"
             }
           ]
         }
