@@ -1,0 +1,23 @@
+﻿@model IEnumerable<WebAppi1MVC.Models.Country>
+
+@if (!Model.Any())
+{
+    <p>No data found. (API returned empty or failed)</p>
+}
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Country Name</th>
+        <th>Capital</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.CountryName</td>
+            <td>@item.Capital</td>
+        </tr>
+    }
+</table>
